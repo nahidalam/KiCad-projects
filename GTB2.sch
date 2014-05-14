@@ -1,0 +1,226 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:GTB
+LIBS:Lithouse
+LIBS:ticc2531
+LIBS:GTB-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title ""
+Date "13 may 2014"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TPS76933 U4
+U 1 1 534CBA4E
+P 5100 3400
+F 0 "U4" H 5500 2750 60  0000 C CNN
+F 1 "TPS76933" H 5150 4500 60  0000 C CNN
+F 2 "~" H 5150 3400 60  0000 C CNN
+F 3 "~" H 5150 3400 60  0000 C CNN
+	1    5100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C18
+U 1 1 534CBC8E
+P 4000 4950
+F 0 "C18" H 4000 5050 40  0000 L CNN
+F 1 "1U" H 4006 4865 40  0000 L CNN
+F 2 "~" H 4038 4800 30  0000 C CNN
+F 3 "~" H 4000 4950 60  0000 C CNN
+	1    4000 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C19
+U 1 1 534CBC9D
+P 7000 4100
+F 0 "C19" H 7000 4200 40  0000 L CNN
+F 1 "C" H 7006 4015 40  0000 L CNN
+F 2 "~" H 7038 3950 30  0000 C CNN
+F 3 "~" H 7000 4100 60  0000 C CNN
+	1    7000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C20
+U 1 1 534CBCAC
+P 8300 4100
+F 0 "C20" H 8300 4200 40  0000 L CNN
+F 1 "4U7" H 8306 4015 40  0000 L CNN
+F 2 "~" H 8338 3950 30  0000 C CNN
+F 3 "~" H 8300 4100 60  0000 C CNN
+	1    8300 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R14
+U 1 1 534CBD76
+P 8300 5250
+F 0 "R14" V 8380 5250 40  0000 C CNN
+F 1 "2" V 8307 5251 40  0000 C CNN
+F 2 "~" V 8230 5250 30  0000 C CNN
+F 3 "~" H 8300 5250 30  0000 C CNN
+	1    8300 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R15
+U 1 1 534CBD85
+P 8900 2100
+F 0 "R15" V 8980 2100 40  0000 C CNN
+F 1 "R" V 8907 2101 40  0000 C CNN
+F 2 "~" V 8830 2100 30  0000 C CNN
+F 3 "~" H 8900 2100 30  0000 C CNN
+	1    8900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R13
+U 1 1 534CBD94
+P 8300 2700
+F 0 "R13" V 8380 2700 40  0000 C CNN
+F 1 "0" V 8307 2701 40  0000 C CNN
+F 2 "~" V 8230 2700 30  0000 C CNN
+F 3 "~" H 8300 2700 30  0000 C CNN
+	1    8300 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR035
+U 1 1 534CBF1E
+P 8300 5900
+F 0 "#PWR035" H 8300 5900 30  0001 C CNN
+F 1 "GND" H 8300 5830 30  0001 C CNN
+F 2 "" H 8300 5900 60  0000 C CNN
+F 3 "" H 8300 5900 60  0000 C CNN
+	1    8300 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR036
+U 1 1 534CBF2D
+P 7000 4700
+F 0 "#PWR036" H 7000 4700 30  0001 C CNN
+F 1 "GND" H 7000 4630 30  0001 C CNN
+F 2 "" H 7000 4700 60  0000 C CNN
+F 3 "" H 7000 4700 60  0000 C CNN
+	1    7000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR037
+U 1 1 534CBF3C
+P 4000 5650
+F 0 "#PWR037" H 4000 5650 30  0001 C CNN
+F 1 "GND" H 4000 5580 30  0001 C CNN
+F 2 "" H 4000 5650 60  0000 C CNN
+F 3 "" H 4000 5650 60  0000 C CNN
+	1    4000 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3V3 #PWR038
+U 1 1 534CBF5A
+P 10050 1900
+F 0 "#PWR038" H 10050 2000 40  0001 C CNN
+F 1 "3V3" H 10050 2025 40  0000 C CNN
+F 2 "" H 10050 1900 60  0000 C CNN
+F 3 "" H 10050 1900 60  0000 C CNN
+	1    10050 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR039
+U 1 1 534CC525
+P 5300 4500
+F 0 "#PWR039" H 5300 4500 30  0001 C CNN
+F 1 "GND" H 5300 4430 30  0001 C CNN
+F 2 "" H 5300 4500 60  0000 C CNN
+F 3 "" H 5300 4500 60  0000 C CNN
+	1    5300 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 5150 4000 5650
+Wire Wire Line
+	4000 4750 4000 2700
+Wire Wire Line
+	2900 2700 4550 2700
+Connection ~ 4000 2700
+Wire Wire Line
+	5950 2700 8050 2700
+Wire Wire Line
+	7000 4300 7000 4700
+Wire Wire Line
+	8300 4300 8300 5000
+Wire Wire Line
+	8300 5500 8300 5900
+Wire Wire Line
+	7800 3900 8300 3900
+Wire Wire Line
+	7800 3900 7800 2700
+Connection ~ 7800 2700
+Wire Wire Line
+	5950 3600 7000 3600
+Wire Wire Line
+	7000 3600 7000 3900
+Wire Wire Line
+	5300 4150 5300 4500
+Wire Wire Line
+	4550 3600 4550 4300
+Wire Wire Line
+	4550 4300 5300 4300
+Connection ~ 5300 4300
+Wire Wire Line
+	8550 2700 10050 2700
+Wire Wire Line
+	10050 2700 10050 1900
+Wire Wire Line
+	8900 2350 8900 2700
+Connection ~ 8900 2700
+Wire Wire Line
+	8900 1850 8900 1550
+Text GLabel 8900 1550 0    60   Input ~ 0
+VCC_EXT
+Text GLabel 2900 2700 0    60   Input ~ 0
+VBUS
+$EndSCHEMATC

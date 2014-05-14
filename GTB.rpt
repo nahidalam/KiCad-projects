@@ -1,0 +1,890 @@
+** Drc report for C:\Users\lilyhack\Documents\data\KiCad-projects\GTB.kicad_pcb **
+** Created on  **
+
+** Found 294 DRC errors **
+ErrType(19): Pad near pad
+    @ (180.632 mm,151.447 mm): Pad [8] (F.Cu) of U2
+    @ (181.280 mm,151.447 mm): Pad [7] (F.Cu) of U2
+ErrType(19): Pad near pad
+    @ (180.632 mm,155.893 mm): Pad [1] (F.Cu) of U2
+    @ (181.280 mm,155.893 mm): Pad [2] (F.Cu) of U2
+ErrType(19): Pad near pad
+    @ (181.940 mm,151.447 mm): Pad [6] (F.Cu) of U2
+    @ (182.588 mm,151.447 mm): Pad [5] (F.Cu) of U2
+ErrType(19): Pad near pad
+    @ (181.940 mm,155.893 mm): Pad [3] (F.Cu) of U2
+    @ (182.588 mm,155.893 mm): Pad [4] (F.Cu) of U2
+ErrType(19): Pad near pad
+    @ (221.818 mm,142.519 mm): Pad [1] (F.Cu) of U1
+    @ (221.818 mm,143.027 mm): Pad [2] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,143.027 mm): Pad [2] (F.Cu) of U1
+    @ (221.818 mm,143.535 mm): Pad [3] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,143.535 mm): Pad [3] (F.Cu) of U1
+    @ (221.818 mm,144.018 mm): Pad [4] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,144.018 mm): Pad [4] (F.Cu) of U1
+    @ (221.818 mm,144.526 mm): Pad [5] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,144.526 mm): Pad [5] (F.Cu) of U1
+    @ (221.818 mm,145.034 mm): Pad [6] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,145.034 mm): Pad [6] (F.Cu) of U1
+    @ (221.818 mm,145.542 mm): Pad [7] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,145.542 mm): Pad [7] (F.Cu) of U1
+    @ (221.818 mm,146.025 mm): Pad [8] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,146.025 mm): Pad [8] (F.Cu) of U1
+    @ (221.818 mm,146.533 mm): Pad [9] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,146.533 mm): Pad [9] (F.Cu) of U1
+    @ (221.818 mm,147.041 mm): Pad [10] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (221.818 mm,147.041 mm): Pad [10] (F.Cu) of U1
+    @ (222.529 mm,147.752 mm): Pad [11] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (222.529 mm,141.808 mm): Pad [40] (F.Cu) of U1
+    @ (223.037 mm,141.808 mm): Pad [39] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (222.529 mm,147.752 mm): Pad [11] (F.Cu) of U1
+    @ (223.037 mm,147.752 mm): Pad [12] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.037 mm,141.808 mm): Pad [39] (F.Cu) of U1
+    @ (223.545 mm,141.808 mm): Pad [38] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.037 mm,147.752 mm): Pad [12] (F.Cu) of U1
+    @ (223.545 mm,147.752 mm): Pad [13] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.215 mm,143.205 mm): Pad [V_6] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.215 mm,143.993 mm): Pad [V_5] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.215 mm,144.780 mm): Pad [V_4] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.215 mm,145.567 mm): Pad [V_2] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.215 mm,146.355 mm): Pad [V_3] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.545 mm,141.808 mm): Pad [38] (F.Cu) of U1
+    @ (224.028 mm,141.808 mm): Pad [37] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (223.545 mm,147.752 mm): Pad [13] (F.Cu) of U1
+    @ (224.028 mm,147.752 mm): Pad [14] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.003 mm,143.205 mm): Pad [V_11] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.003 mm,143.993 mm): Pad [V_10] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.003 mm,144.780 mm): Pad [V_9] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.003 mm,145.567 mm): Pad [V_8] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.003 mm,146.355 mm): Pad [V_7] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.028 mm,141.808 mm): Pad [37] (F.Cu) of U1
+    @ (224.536 mm,141.808 mm): Pad [36] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.028 mm,147.752 mm): Pad [14] (F.Cu) of U1
+    @ (224.536 mm,147.752 mm): Pad [15] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.536 mm,141.808 mm): Pad [36] (F.Cu) of U1
+    @ (225.044 mm,141.808 mm): Pad [35] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.536 mm,147.752 mm): Pad [15] (F.Cu) of U1
+    @ (225.044 mm,147.752 mm): Pad [16] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.790 mm,143.205 mm): Pad [V_16] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.790 mm,143.993 mm): Pad [V_15] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.790 mm,144.780 mm): Pad [V_14] (all copper layers) of U1
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (224.790 mm,144.780 mm): Pad [41] (F.Cu) of U1
+    @ (224.790 mm,145.567 mm): Pad [V_13] (all copper layers) of U1
+ErrType(19): Pad near pad
+    @ (225.044 mm,141.808 mm): Pad [35] (F.Cu) of U1
+    @ (225.552 mm,141.808 mm): Pad [34] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (225.044 mm,147.752 mm): Pad [16] (F.Cu) of U1
+    @ (225.552 mm,147.752 mm): Pad [17] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (225.552 mm,141.808 mm): Pad [34] (F.Cu) of U1
+    @ (226.035 mm,141.808 mm): Pad [33] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (225.552 mm,147.752 mm): Pad [17] (F.Cu) of U1
+    @ (226.035 mm,147.752 mm): Pad [18] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (226.035 mm,141.808 mm): Pad [33] (F.Cu) of U1
+    @ (226.543 mm,141.808 mm): Pad [32] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (226.035 mm,147.752 mm): Pad [18] (F.Cu) of U1
+    @ (226.543 mm,147.752 mm): Pad [19] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (226.543 mm,141.808 mm): Pad [32] (F.Cu) of U1
+    @ (227.051 mm,141.808 mm): Pad [31] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (226.543 mm,147.752 mm): Pad [19] (F.Cu) of U1
+    @ (227.051 mm,147.752 mm): Pad [20] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.051 mm,141.808 mm): Pad [31] (F.Cu) of U1
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.051 mm,147.752 mm): Pad [20] (F.Cu) of U1
+    @ (227.762 mm,147.041 mm): Pad [21] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+    @ (227.762 mm,143.027 mm): Pad [29] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,144.018 mm): Pad [27] (F.Cu) of U1
+    @ (227.762 mm,144.526 mm): Pad [26] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,144.526 mm): Pad [26] (F.Cu) of U1
+    @ (227.762 mm,145.034 mm): Pad [25] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,145.034 mm): Pad [25] (F.Cu) of U1
+    @ (227.762 mm,145.542 mm): Pad [24] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,145.542 mm): Pad [24] (F.Cu) of U1
+    @ (227.762 mm,146.025 mm): Pad [23] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,146.025 mm): Pad [23] (F.Cu) of U1
+    @ (227.762 mm,146.533 mm): Pad [22] (F.Cu) of U1
+ErrType(19): Pad near pad
+    @ (227.762 mm,146.533 mm): Pad [22] (F.Cu) of U1
+    @ (227.762 mm,147.041 mm): Pad [21] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (188.621 mm,160.857 mm): Via 0.889 mm [3V3] Net:1
+    @ (188.849 mm,162.560 mm): Pad [1] (F.Cu) of L1
+ErrType(4): Track near pad
+    @ (185.445 mm,172.660 mm): Track 0.254 mm [3V3] on F.Cu  Net:1  Length:1.946 mm
+    @ (184.531 mm,173.990 mm): Pad [2] (F.Cu) of R13
+ErrType(4): Track near pad
+    @ (185.696 mm,172.911 mm): Track 0.254 mm [3V3] on F.Cu  Net:1  Length:0.354 mm
+    @ (184.531 mm,173.990 mm): Pad [2] (F.Cu) of R13
+ErrType(4): Track near pad
+    @ (187.929 mm,175.283 mm): Track 0.254 mm [3V3] on F.Cu  Net:1  Length:3.158 mm
+    @ (188.849 mm,173.990 mm): Pad [1] (F.Cu) of R15
+ErrType(4): Track near pad
+    @ (189.819 mm,175.283 mm): Track 0.254 mm [3V3] on F.Cu  Net:1  Length:1.890 mm
+    @ (188.849 mm,173.990 mm): Pad [1] (F.Cu) of R15
+ErrType(4): Track near pad
+    @ (191.112 mm,173.990 mm): Track 0.254 mm [3V3] on F.Cu  Net:1  Length:1.829 mm
+    @ (188.849 mm,173.990 mm): Pad [1] (F.Cu) of R15
+ErrType(4): Track near pad
+    @ (202.770 mm,178.978 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.095 mm
+    @ (201.780 mm,177.800 mm): Pad [1] (F.Cu) of D1
+ErrType(4): Track near pad
+    @ (194.368 mm,178.978 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:8.402 mm
+    @ (201.780 mm,177.800 mm): Pad [1] (F.Cu) of D1
+ErrType(18): Two track ends
+    @ (193.190 mm,177.800 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.665 mm
+    @ (207.644 mm,179.411 mm): Track 0.254 mm [N-0000046] on F.Cu  Net:12  Length:23.738 mm
+ErrType(4): Track near pad
+    @ (209.971 mm,176.871 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:2.280 mm
+    @ (210.502 mm,177.800 mm): Pad [4] (F.Cu) of U4
+ErrType(18): Two track ends
+    @ (212.124 mm,174.718 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:3.045 mm
+    @ (209.491 mm,176.231 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:2.557 mm
+ErrType(4): Track near pad
+    @ (221.818 mm,142.519 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.696 mm
+    @ (221.818 mm,143.027 mm): Pad [2] (F.Cu) of U1
+ErrType(12): This looks bad
+    @ (189.420 mm,152.620 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.700 mm
+    @ (188.020 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:1.840 mm
+ErrType(4): Track near pad
+    @ (211.316 mm,172.697 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.144 mm
+    @ (210.439 mm,173.990 mm): Pad [1] (F.Cu) of C18
+ErrType(4): Track near pad
+    @ (209.496 mm,172.697 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.819 mm
+    @ (210.439 mm,173.990 mm): Pad [1] (F.Cu) of C18
+ErrType(4): Track near pad
+    @ (208.705 mm,173.488 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.119 mm
+    @ (210.439 mm,173.990 mm): Pad [1] (F.Cu) of C18
+ErrType(16): Two track ends
+    @ (189.420 mm,152.620 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.477 mm
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+ErrType(4): Track near pad
+    @ (181.440 mm,151.607 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.226 mm
+    @ (181.940 mm,151.447 mm): Pad [6] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (181.440 mm,154.980 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:3.373 mm
+    @ (181.940 mm,151.447 mm): Pad [6] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (182.996 mm,154.980 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.556 mm
+    @ (181.940 mm,155.893 mm): Pad [3] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (183.492 mm,155.476 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.701 mm
+    @ (182.588 mm,155.893 mm): Pad [4] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (181.440 mm,154.980 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.808 mm
+    @ (181.280 mm,155.893 mm): Pad [2] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (188.720 mm,152.510 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.990 mm
+    @ (188.720 mm,151.670 mm): Pad [2] (F.Cu) of T1
+ErrType(13): Tracks crossing
+    @ (188.720 mm,152.620 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.111 mm
+    @ (188.020 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:1.840 mm
+ErrType(4): Track near pad
+    @ (186.408 mm,150.535 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:5.128 mm
+    @ (182.588 mm,151.447 mm): Pad [5] (F.Cu) of U2
+ErrType(13): Tracks crossing
+    @ (217.551 mm,152.400 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.293 mm
+    @ (224.955 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:29.559 mm
+ErrType(5): Track near via
+    @ (223.901 mm,152.400 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.039 mm
+    @ (222.072 mm,152.428 mm): Via 0.889 mm [VCC] Net:32
+ErrType(5): Track near via
+    @ (222.862 mm,157.018 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:4.618 mm
+    @ (222.072 mm,152.428 mm): Via 0.889 mm [VCC] Net:32
+ErrType(4): Track near pad
+    @ (221.829 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:4.278 mm
+    @ (220.599 mm,152.400 mm): Pad [1] (F.Cu) of C11
+ErrType(18): Two track ends
+    @ (222.862 mm,152.140 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.461 mm
+    @ (224.955 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:29.559 mm
+ErrType(5): Track near via
+    @ (222.862 mm,152.400 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.260 mm
+    @ (222.072 mm,152.428 mm): Via 0.889 mm [VCC] Net:32
+ErrType(17): Two track ends
+    @ (212.263 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.829 mm
+    @ (224.955 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:29.559 mm
+ErrType(4): Track near pad
+    @ (217.551 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:5.288 mm
+    @ (214.249 mm,152.400 mm): Pad [1] (F.Cu) of C10
+ErrType(4): Track near pad
+    @ (215.813 mm,160.043 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.461 mm
+    @ (216.789 mm,158.750 mm): Pad [1] (F.Cu) of C2
+ErrType(4): Track near pad
+    @ (220.091 mm,160.043 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:4.278 mm
+    @ (216.789 mm,158.750 mm): Pad [1] (F.Cu) of C2
+ErrType(4): Track near pad
+    @ (221.130 mm,162.560 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:7.620 mm
+    @ (220.091 mm,166.370 mm): Pad [2] (F.Cu) of R9
+ErrType(4): Track near pad
+    @ (220.091 mm,172.697 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:5.311 mm
+    @ (216.789 mm,173.990 mm): Pad [1] (F.Cu) of C19
+ErrType(13): Tracks crossing
+    @ (202.311 mm,152.400 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.293 mm
+    @ (224.955 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:29.559 mm
+ErrType(4): Track near pad
+    @ (207.599 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.829 mm
+    @ (206.629 mm,152.400 mm): Pad [1] (F.Cu) of C8
+ErrType(4): Track near pad
+    @ (202.311 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:5.288 mm
+    @ (206.629 mm,152.400 mm): Pad [1] (F.Cu) of C8
+ErrType(18): Two track ends
+    @ (190.864 mm,152.620 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.967 mm
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+ErrType(5): Track near via
+    @ (191.036 mm,148.653 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:3.794 mm
+    @ (190.265 mm,151.622 mm): Via 0.889 mm [N-000003] Net:8
+ErrType(4): Track near pad
+    @ (193.593 mm,153.729 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.879 mm
+    @ (192.659 mm,152.400 mm): Pad [1] (F.Cu) of C12
+ErrType(4): Track near pad
+    @ (191.739 mm,153.729 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.854 mm
+    @ (192.659 mm,152.400 mm): Pad [1] (F.Cu) of C12
+ErrType(4): Track near pad
+    @ (190.864 mm,152.853 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.238 mm
+    @ (192.659 mm,152.400 mm): Pad [1] (F.Cu) of C12
+ErrType(4): Track near pad
+    @ (198.033 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.461 mm
+    @ (199.009 mm,152.400 mm): Pad [1] (F.Cu) of C6
+ErrType(4): Track near pad
+    @ (202.311 mm,151.107 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:4.278 mm
+    @ (199.009 mm,152.400 mm): Pad [1] (F.Cu) of C6
+ErrType(5): Track near via
+    @ (219.965 mm,142.541 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.426 mm
+    @ (219.628 mm,143.225 mm): Via 0.889 mm [PA_DP] Net:30
+ErrType(5): Track near via
+    @ (221.100 mm,142.541 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.135 mm
+    @ (220.528 mm,141.820 mm): Via 0.889 mm [N-0000015] Net:5
+ErrType(17): Two track ends
+    @ (221.122 mm,142.519 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:0.031 mm
+    @ (221.818 mm,143.027 mm): Track 0.254 mm [PA_DP] on F.Cu  Net:30  Length:1.993 mm
+ErrType(5): Track near via
+    @ (193.829 mm,160.959 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:2.264 mm
+    @ (193.022 mm,160.917 mm): Via 0.889 mm [N-000005] Net:14
+ErrType(5): Track near via
+    @ (193.829 mm,158.254 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:2.705 mm
+    @ (193.022 mm,160.917 mm): Via 0.889 mm [N-000005] Net:14
+ErrType(4): Track near pad
+    @ (193.030 mm,157.455 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.130 mm
+    @ (192.151 mm,158.750 mm): Pad [2] (F.Cu) of L2
+ErrType(4): Track near pad
+    @ (186.865 mm,157.455 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:6.165 mm
+    @ (188.849 mm,158.750 mm): Pad [1] (F.Cu) of L2
+ErrType(4): Track near pad
+    @ (191.507 mm,147.355 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:7.121 mm
+    @ (192.730 mm,147.570 mm): Pad [10] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (203.782 mm,157.450 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:1.838 mm
+    @ (202.819 mm,158.750 mm): Pad [1] (F.Cu) of C9
+ErrType(4): Track near pad
+    @ (200.451 mm,157.450 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:3.331 mm
+    @ (202.819 mm,158.750 mm): Pad [1] (F.Cu) of C9
+ErrType(4): Track near pad
+    @ (198.732 mm,166.370 mm): Track 0.254 mm [GND] on F.Cu  Net:2  Length:3.183 mm
+    @ (196.469 mm,166.370 mm): Pad [1] (F.Cu) of C5
+ErrType(4): Track near pad
+    @ (188.453 mm,146.889 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:2.926 mm
+    @ (189.230 mm,147.570 mm): Pad [8] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (195.126 mm,140.216 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:9.437 mm
+    @ (189.230 mm,147.570 mm): Pad [8] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (227.857 mm,140.216 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:32.731 mm
+    @ (196.730 mm,142.320 mm): Pad [1] (F.Cu) of U3
+ErrType(5): Track near via
+    @ (228.922 mm,141.280 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:1.505 mm
+    @ (229.066 mm,140.404 mm): Via 0.889 mm [N-000003] Net:8
+ErrType(9): Two track ends
+    @ (228.922 mm,143.895 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:2.614 mm
+    @ (229.328 mm,144.164 mm): Track 0.254 mm [N-000003] on F.Cu  Net:8  Length:3.498 mm
+ErrType(4): Track near pad
+    @ (228.290 mm,144.526 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:0.893 mm
+    @ (227.762 mm,144.018 mm): Pad [27] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,144.526 mm): Track 0.254 mm [N-000001] on F.Cu  Net:3  Length:0.528 mm
+    @ (227.762 mm,145.034 mm): Pad [25] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,146.533 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:0.696 mm
+    @ (227.762 mm,146.025 mm): Pad [23] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (224.955 mm,171.296 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:20.594 mm
+    @ (223.901 mm,152.400 mm): Pad [2] (F.Cu) of C11
+ErrType(4): Track near pad
+    @ (218.451 mm,177.800 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:9.198 mm
+    @ (220.091 mm,173.990 mm): Pad [2] (F.Cu) of C19
+ErrType(8): Two track ends
+    @ (226.574 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:1.619 mm
+    @ (226.407 mm,150.241 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.166 mm
+ErrType(16): Two track ends
+    @ (228.458 mm,148.818 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:2.665 mm
+    @ (226.407 mm,150.241 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.166 mm
+ErrType(4): Track near pad
+    @ (228.458 mm,146.533 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:2.286 mm
+    @ (227.762 mm,147.041 mm): Pad [21] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (195.395 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:2.400 mm
+    @ (195.961 mm,152.400 mm): Pad [2] (F.Cu) of C12
+ErrType(16): Two track ends
+    @ (224.955 mm,150.703 mm): Track 0.254 mm [N-0000013] on F.Cu  Net:4  Length:29.559 mm
+    @ (224.242 mm,150.241 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.847 mm
+ErrType(7): Via near track
+    @ (221.014 mm,141.096 mm): Track 0.254 mm [N-000006] on B.Cu  Net:19  Length:10.468 mm
+    @ (220.528 mm,141.820 mm): Via 0.889 mm [N-0000015] Net:5
+ErrType(5): Track near via
+    @ (221.304 mm,141.043 mm): Track 0.254 mm [N-0000015] on F.Cu  Net:5  Length:1.098 mm
+    @ (221.693 mm,141.775 mm): Via 0.889 mm [N-000006] Net:19
+ErrType(4): Track near pad
+    @ (222.969 mm,141.043 mm): Track 0.254 mm [N-0000015] on F.Cu  Net:5  Length:1.665 mm
+    @ (222.529 mm,141.808 mm): Pad [40] (F.Cu) of U1
+ErrType(17): Two track ends
+    @ (223.037 mm,141.112 mm): Track 0.254 mm [N-0000015] on F.Cu  Net:5  Length:0.097 mm
+    @ (226.564 mm,140.625 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:7.889 mm
+ErrType(4): Track near pad
+    @ (223.037 mm,141.808 mm): Track 0.254 mm [N-0000015] on F.Cu  Net:5  Length:0.696 mm
+    @ (223.545 mm,141.808 mm): Pad [38] (F.Cu) of U1
+ErrType(6): Via near via
+    @ (225.407 mm,149.517 mm): Via 0.889 mm [N-0000017] Net:6
+    @ (226.224 mm,148.767 mm): Via 0.889 mm [P0_0] Net:25
+ErrType(4): Track near pad
+    @ (212.771 mm,161.267 mm): Track 0.254 mm [N-0000017] on F.Cu  Net:6  Length:1.829 mm
+    @ (213.741 mm,162.560 mm): Pad [2] (F.Cu) of R1
+ErrType(4): Track near pad
+    @ (216.789 mm,161.267 mm): Track 0.254 mm [N-0000017] on F.Cu  Net:6  Length:4.018 mm
+    @ (213.741 mm,162.560 mm): Pad [2] (F.Cu) of R1
+ErrType(5): Track near via
+    @ (226.500 mm,149.517 mm): Track 0.254 mm [N-0000017] on F.Cu  Net:6  Length:1.093 mm
+    @ (226.224 mm,148.767 mm): Via 0.889 mm [P0_0] Net:25
+ErrType(5): Track near via
+    @ (227.051 mm,148.966 mm): Track 0.254 mm [N-0000017] on F.Cu  Net:6  Length:0.778 mm
+    @ (226.224 mm,148.767 mm): Via 0.889 mm [P0_0] Net:25
+ErrType(4): Track near pad
+    @ (227.051 mm,147.752 mm): Track 0.254 mm [N-0000017] on F.Cu  Net:6  Length:1.214 mm
+    @ (226.543 mm,147.752 mm): Pad [19] (F.Cu) of U1
+ErrType(7): Via near track
+    @ (222.235 mm,148.743 mm): Track 0.254 mm [P1_0/LED] on F.Cu  Net:26  Length:10.437 mm
+    @ (213.689 mm,147.922 mm): Via 0.889 mm [N-0000029] Net:7
+ErrType(7): Via near track
+    @ (195.554 mm,172.330 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.574 mm
+    @ (194.868 mm,174.036 mm): Via 0.889 mm [N-0000029] Net:7
+ErrType(4): Track near pad
+    @ (191.995 mm,175.693 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:2.980 mm
+    @ (192.151 mm,177.800 mm): Pad [2] (F.Cu) of C3
+ErrType(8): Two track ends
+    @ (193.211 mm,175.693 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:1.216 mm
+    @ (193.031 mm,175.289 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.127 mm
+ErrType(16): Two track ends
+    @ (194.868 mm,174.036 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:2.343 mm
+    @ (193.031 mm,175.289 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.127 mm
+ErrType(4): Track near pad
+    @ (221.818 mm,147.041 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:0.696 mm
+    @ (221.818 mm,146.533 mm): Pad [9] (F.Cu) of U1
+ErrType(5): Track near via
+    @ (213.689 mm,147.922 mm): Track 0.254 mm [N-0000029] on B.Cu  Net:7  Length:26.616 mm
+    @ (211.797 mm,148.743 mm): Via 0.889 mm [P1_0/LED] Net:26
+ErrType(17): Two track ends
+    @ (214.083 mm,148.317 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:0.558 mm
+    @ (222.235 mm,148.743 mm): Track 0.254 mm [P1_0/LED] on F.Cu  Net:26  Length:10.437 mm
+ErrType(4): Track near pad
+    @ (219.846 mm,148.317 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:5.763 mm
+    @ (218.440 mm,147.320 mm): Pad [2] (all copper layers) of SW1
+ErrType(18): Two track ends
+    @ (221.122 mm,147.041 mm): Track 0.254 mm [N-0000029] on F.Cu  Net:7  Length:1.805 mm
+    @ (222.235 mm,148.743 mm): Track 0.254 mm [P1_0/LED] on F.Cu  Net:26  Length:10.437 mm
+ErrType(7): Via near track
+    @ (190.036 mm,153.014 mm): Track 0.254 mm [N-0000065] on B.Cu  Net:22  Length:7.077 mm
+    @ (190.265 mm,151.622 mm): Via 0.889 mm [N-000003] Net:8
+ErrType(4): Track near pad
+    @ (227.762 mm,145.034 mm): Track 0.254 mm [N-000003] on F.Cu  Net:8  Length:0.696 mm
+    @ (227.762 mm,144.526 mm): Pad [26] (F.Cu) of U1
+ErrType(16): Two track ends
+    @ (201.273 mm,140.239 mm): Track 0.254 mm [N-000003] on B.Cu  Net:8  Length:27.629 mm
+    @ (205.847 mm,140.689 mm): Track 0.254 mm [N-000005] on B.Cu  Net:14  Length:18.137 mm
+ErrType(4): Track near pad
+    @ (190.265 mm,151.248 mm): Track 0.254 mm [N-000003] on B.Cu  Net:8  Length:15.568 mm
+    @ (200.660 mm,142.240 mm): Pad [1] (all copper layers) of SW2
+ErrType(5): Track near via
+    @ (228.458 mm,145.034 mm): Track 0.254 mm [N-000003] on F.Cu  Net:8  Length:1.231 mm
+    @ (228.831 mm,145.693 mm): Via 0.889 mm [VCC] Net:32
+ErrType(4): Track near pad
+    @ (183.561 mm,163.853 mm): Track 0.254 mm [N-000004] on F.Cu  Net:9  Length:2.955 mm
+    @ (184.531 mm,162.560 mm): Pad [2] (F.Cu) of R2
+ErrType(4): Track near pad
+    @ (182.268 mm,162.560 mm): Track 0.254 mm [N-000004] on F.Cu  Net:9  Length:1.829 mm
+    @ (184.531 mm,162.560 mm): Pad [2] (F.Cu) of R2
+ErrType(4): Track near pad
+    @ (189.686 mm,176.507 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.823 mm
+    @ (188.849 mm,177.800 mm): Pad [1] (F.Cu) of C3
+ErrType(4): Track near pad
+    @ (190.904 mm,175.289 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:1.723 mm
+    @ (188.849 mm,177.800 mm): Pad [1] (F.Cu) of C3
+ErrType(4): Track near pad
+    @ (193.031 mm,175.289 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.127 mm
+    @ (192.151 mm,173.990 mm): Pad [2] (F.Cu) of R15
+ErrType(4): Track near pad
+    @ (193.734 mm,174.586 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:0.994 mm
+    @ (192.151 mm,173.990 mm): Pad [2] (F.Cu) of R15
+ErrType(17): Two track ends
+    @ (195.554 mm,172.330 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.574 mm
+    @ (200.236 mm,171.926 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:7.487 mm
+ErrType(8): Two track ends
+    @ (201.209 mm,172.330 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:5.655 mm
+    @ (200.236 mm,171.926 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:7.487 mm
+ErrType(5): Track near via
+    @ (207.654 mm,171.926 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:6.041 mm
+    @ (207.984 mm,172.647 mm): Via 0.889 mm [P0_0] Net:25
+ErrType(5): Track near via
+    @ (209.400 mm,170.180 mm): Track 0.254 mm [N-0000044] on F.Cu  Net:10  Length:2.469 mm
+    @ (207.984 mm,172.647 mm): Via 0.889 mm [P0_0] Net:25
+ErrType(4): Track near pad
+    @ (213.018 mm,176.885 mm): Track 0.254 mm [N-0000045] on F.Cu  Net:11  Length:2.260 mm
+    @ (212.598 mm,177.800 mm): Pad [1] (F.Cu) of X1
+ErrType(4): Track near pad
+    @ (215.750 mm,174.154 mm): Track 0.254 mm [N-0000045] on F.Cu  Net:11  Length:3.863 mm
+    @ (213.741 mm,173.990 mm): Pad [2] (F.Cu) of C18
+ErrType(4): Track near pad
+    @ (183.906 mm,179.411 mm): Track 0.254 mm [N-0000046] on F.Cu  Net:12  Length:1.815 mm
+    @ (184.531 mm,177.800 mm): Pad [2] (F.Cu) of C20
+ErrType(11): Two track ends
+    @ (207.644 mm,179.411 mm): Track 0.254 mm [N-0000046] on F.Cu  Net:12  Length:23.738 mm
+    @ (208.066 mm,179.682 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:0.531 mm
+ErrType(16): Two track ends
+    @ (208.597 mm,178.458 mm): Track 0.254 mm [N-0000046] on F.Cu  Net:12  Length:1.348 mm
+    @ (208.066 mm,179.682 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:0.531 mm
+ErrType(17): Two track ends
+    @ (194.483 mm,171.473 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:1.829 mm
+    @ (200.236 mm,171.926 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:7.487 mm
+ErrType(4): Track near pad
+    @ (197.359 mm,171.473 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:2.876 mm
+    @ (196.469 mm,170.180 mm): Pad [1] (F.Cu) of R7
+ErrType(4): Track near pad
+    @ (197.898 mm,170.934 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.762 mm
+    @ (196.469 mm,170.180 mm): Pad [1] (F.Cu) of R7
+ErrType(4): Track near pad
+    @ (199.126 mm,168.640 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:1.737 mm
+    @ (199.771 mm,170.180 mm): Pad [2] (F.Cu) of R7
+ErrType(5): Track near via
+    @ (200.608 mm,168.640 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:1.482 mm
+    @ (201.391 mm,168.877 mm): Via 0.889 mm [PA_DM] Net:29
+ErrType(5): Track near via
+    @ (200.608 mm,168.640 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.000 mm
+    @ (201.391 mm,168.877 mm): Via 0.889 mm [PA_DM] Net:29
+ErrType(5): Track near via
+    @ (201.092 mm,168.156 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.685 mm
+    @ (201.391 mm,168.877 mm): Via 0.889 mm [PA_DM] Net:29
+ErrType(5): Track near via
+    @ (203.840 mm,168.156 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:2.748 mm
+    @ (204.605 mm,168.418 mm): Via 0.889 mm [N-0000059] Net:18
+ErrType(5): Track near via
+    @ (204.333 mm,167.663 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.697 mm
+    @ (204.605 mm,168.418 mm): Via 0.889 mm [N-0000059] Net:18
+ErrType(4): Track near pad
+    @ (207.001 mm,167.663 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:2.669 mm
+    @ (206.121 mm,166.370 mm): Pad [2] (F.Cu) of R5
+ErrType(4): Track near pad
+    @ (209.319 mm,165.345 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:3.278 mm
+    @ (210.439 mm,166.370 mm): Pad [1] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (209.319 mm,165.261 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.084 mm
+    @ (210.439 mm,166.370 mm): Pad [1] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (209.943 mm,164.637 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:0.882 mm
+    @ (210.439 mm,166.370 mm): Pad [1] (F.Cu) of C15
+ErrType(16): Two track ends
+    @ (214.797 mm,164.637 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:4.854 mm
+    @ (214.618 mm,165.077 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:0.327 mm
+ErrType(16): Two track ends
+    @ (215.750 mm,165.591 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:1.348 mm
+    @ (214.849 mm,165.308 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.325 mm
+ErrType(4): Track near pad
+    @ (189.819 mm,171.473 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:2.955 mm
+    @ (188.849 mm,170.180 mm): Pad [1] (F.Cu) of R10
+ErrType(4): Track near pad
+    @ (191.112 mm,170.180 mm): Track 0.254 mm [N-0000049] on F.Cu  Net:13  Length:1.829 mm
+    @ (188.849 mm,170.180 mm): Pad [1] (F.Cu) of R10
+ErrType(4): Track near pad
+    @ (227.796 mm,141.747 mm): Via 0.889 mm [N-000005] Net:14
+    @ (227.051 mm,141.808 mm): Pad [31] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,142.519 mm): Track 0.254 mm [N-000005] on F.Cu  Net:14  Length:0.048 mm
+    @ (227.762 mm,143.027 mm): Pad [29] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (205.847 mm,140.689 mm): Track 0.254 mm [N-000005] on B.Cu  Net:14  Length:18.137 mm
+    @ (200.660 mm,147.320 mm): Pad [2] (all copper layers) of SW2
+ErrType(16): Two track ends
+    @ (226.738 mm,140.689 mm): Track 0.254 mm [N-000005] on B.Cu  Net:14  Length:20.891 mm
+    @ (210.546 mm,141.096 mm): Track 0.254 mm [N-000006] on B.Cu  Net:19  Length:1.408 mm
+ErrType(4): Track near pad
+    @ (202.856 mm,176.216 mm): Track 0.254 mm [N-0000050] on F.Cu  Net:15  Length:3.148 mm
+    @ (202.819 mm,173.990 mm): Pad [1] (F.Cu) of R11
+ErrType(4): Track near pad
+    @ (196.506 mm,176.216 mm): Track 0.254 mm [N-0000052] on F.Cu  Net:16  Length:3.148 mm
+    @ (196.469 mm,173.990 mm): Pad [1] (F.Cu) of R12
+ErrType(4): Track near pad
+    @ (200.746 mm,165.077 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:1.461 mm
+    @ (199.771 mm,166.370 mm): Pad [2] (F.Cu) of C5
+ErrType(4): Track near pad
+    @ (200.106 mm,165.077 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:0.640 mm
+    @ (199.771 mm,166.370 mm): Pad [2] (F.Cu) of C5
+ErrType(4): Track near pad
+    @ (197.825 mm,162.796 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:3.226 mm
+    @ (199.771 mm,166.370 mm): Pad [2] (F.Cu) of C5
+ErrType(17): Two track ends
+    @ (197.825 mm,161.744 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:1.051 mm
+    @ (196.959 mm,160.268 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:2.507 mm
+ErrType(4): Track near pad
+    @ (197.263 mm,161.183 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:0.794 mm
+    @ (196.469 mm,162.560 mm): Pad [1] (F.Cu) of R3
+ErrType(4): Track near pad
+    @ (196.143 mm,161.183 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:1.121 mm
+    @ (196.469 mm,162.560 mm): Pad [1] (F.Cu) of R3
+ErrType(4): Track near pad
+    @ (194.435 mm,159.475 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:2.415 mm
+    @ (196.469 mm,162.560 mm): Pad [1] (F.Cu) of R3
+ErrType(17): Two track ends
+    @ (194.435 mm,158.244 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:1.232 mm
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+ErrType(12): This looks bad
+    @ (192.798 mm,156.607 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:2.315 mm
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+ErrType(18): Two track ends
+    @ (186.187 mm,156.607 mm): Track 0.254 mm [N-0000058] on F.Cu  Net:17  Length:6.611 mm
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+ErrType(7): Via near track
+    @ (205.228 mm,168.822 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:4.929 mm
+    @ (204.605 mm,168.418 mm): Via 0.889 mm [N-0000059] Net:18
+ErrType(5): Track near via
+    @ (189.399 mm,169.596 mm): Track 0.254 mm [N-0000059] on B.Cu  Net:18  Length:7.299 mm
+    @ (192.749 mm,171.926 mm): Via 0.889 mm [N-0000065] Net:22
+ErrType(4): Track near pad
+    @ (221.693 mm,141.775 mm): Via 0.889 mm [N-000006] Net:19
+    @ (221.818 mm,142.519 mm): Pad [1] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (198.341 mm,158.650 mm): Via 0.889 mm [N-000006] Net:19
+    @ (199.771 mm,158.750 mm): Pad [2] (F.Cu) of C7
+ErrType(4): Track near pad
+    @ (222.529 mm,141.808 mm): Track 0.254 mm [N-000006] on F.Cu  Net:19  Length:0.803 mm
+    @ (223.037 mm,141.808 mm): Pad [39] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (209.550 mm,147.441 mm): Track 0.254 mm [N-000006] on B.Cu  Net:19  Length:15.852 mm
+    @ (208.280 mm,147.320 mm): Pad [2] (all copper layers) of SW2
+ErrType(4): Track near pad
+    @ (210.546 mm,141.096 mm): Track 0.254 mm [N-000006] on B.Cu  Net:19  Length:1.408 mm
+    @ (210.820 mm,142.240 mm): Pad [1] (all copper layers) of SW1
+ErrType(4): Track near pad
+    @ (180.989 mm,156.805 mm): Track 0.254 mm [N-0000063] on F.Cu  Net:20  Length:0.291 mm
+    @ (180.632 mm,155.893 mm): Pad [1] (F.Cu) of U2
+ErrType(4): Track near pad
+    @ (179.761 mm,158.033 mm): Track 0.254 mm [N-0000063] on F.Cu  Net:20  Length:1.737 mm
+    @ (180.632 mm,155.893 mm): Pad [1] (F.Cu) of U2
+ErrType(12): This looks bad
+    @ (179.761 mm,163.957 mm): Track 0.254 mm [N-0000063] on F.Cu  Net:20  Length:5.924 mm
+    @ (179.352 mm,166.681 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:15.222 mm
+ErrType(18): Two track ends
+    @ (180.881 mm,165.077 mm): Track 0.254 mm [N-0000063] on F.Cu  Net:20  Length:1.584 mm
+    @ (179.352 mm,166.681 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:15.222 mm
+ErrType(5): Track near via
+    @ (191.240 mm,168.222 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:2.232 mm
+    @ (190.794 mm,168.887 mm): Via 0.889 mm [P1_0/LED] Net:26
+ErrType(5): Track near via
+    @ (189.888 mm,166.870 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:1.912 mm
+    @ (190.794 mm,168.887 mm): Via 0.889 mm [P1_0/LED] Net:26
+ErrType(4): Track near pad
+    @ (183.761 mm,147.219 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:2.868 mm
+    @ (181.730 mm,146.320 mm): Pad [4] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (181.306 mm,149.674 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:3.472 mm
+    @ (181.730 mm,146.320 mm): Pad [4] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (179.352 mm,151.460 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:2.526 mm
+    @ (180.632 mm,151.447 mm): Pad [8] (F.Cu) of U2
+ErrType(9): Two track ends
+    @ (179.352 mm,166.681 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:15.222 mm
+    @ (178.948 mm,166.852 mm): Track 0.254 mm [VCC_EXT] on F.Cu  Net:33  Length:17.750 mm
+ErrType(4): Track near pad
+    @ (180.334 mm,167.663 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:1.388 mm
+    @ (181.229 mm,166.370 mm): Pad [1] (F.Cu) of R4
+ErrType(4): Track near pad
+    @ (186.517 mm,167.663 mm): Track 0.254 mm [N-0000064] on F.Cu  Net:21  Length:6.183 mm
+    @ (181.229 mm,166.370 mm): Pad [1] (F.Cu) of R4
+ErrType(4): Track near pad
+    @ (216.789 mm,170.180 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:2.517 mm
+    @ (216.789 mm,166.370 mm): Pad [1] (F.Cu) of R9
+ErrType(4): Track near pad
+    @ (215.879 mm,167.663 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:0.910 mm
+    @ (216.789 mm,166.370 mm): Pad [1] (F.Cu) of R9
+ErrType(4): Track near pad
+    @ (214.849 mm,166.633 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.457 mm
+    @ (213.741 mm,166.370 mm): Pad [2] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (214.849 mm,165.308 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.325 mm
+    @ (213.741 mm,166.370 mm): Pad [2] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (214.618 mm,165.077 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:0.327 mm
+    @ (213.741 mm,166.370 mm): Pad [2] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (212.776 mm,165.077 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.841 mm
+    @ (213.741 mm,166.370 mm): Pad [2] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (211.901 mm,165.952 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.238 mm
+    @ (213.741 mm,166.370 mm): Pad [2] (F.Cu) of C15
+ErrType(4): Track near pad
+    @ (210.157 mm,168.822 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:2.466 mm
+    @ (210.439 mm,170.180 mm): Pad [1] (F.Cu) of R14
+ErrType(4): Track near pad
+    @ (205.228 mm,168.822 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:4.929 mm
+    @ (210.439 mm,170.180 mm): Pad [1] (F.Cu) of R14
+ErrType(4): Track near pad
+    @ (203.870 mm,170.180 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.920 mm
+    @ (206.121 mm,170.180 mm): Pad [2] (F.Cu) of R6
+ErrType(4): Track near pad
+    @ (217.759 mm,167.663 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:1.829 mm
+    @ (216.789 mm,166.370 mm): Pad [1] (F.Cu) of R9
+ErrType(4): Track near pad
+    @ (216.789 mm,167.663 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:0.970 mm
+    @ (216.789 mm,166.370 mm): Pad [1] (F.Cu) of R9
+ErrType(4): Track near pad
+    @ (201.780 mm,170.381 mm): Track 0.254 mm [N-0000065] on F.Cu  Net:22  Length:2.184 mm
+    @ (199.771 mm,170.180 mm): Pad [2] (F.Cu) of R7
+ErrType(5): Track near via
+    @ (190.036 mm,169.213 mm): Track 0.254 mm [N-0000065] on B.Cu  Net:22  Length:16.199 mm
+    @ (190.794 mm,168.887 mm): Via 0.889 mm [P1_0/LED] Net:26
+ErrType(5): Track near via
+    @ (192.749 mm,171.926 mm): Track 0.254 mm [N-0000065] on B.Cu  Net:22  Length:3.836 mm
+    @ (190.794 mm,168.887 mm): Via 0.889 mm [P1_0/LED] Net:26
+ErrType(7): Via near track
+    @ (203.032 mm,159.663 mm): Track 0.254 mm [PA_DM] on B.Cu  Net:29  Length:21.671 mm
+    @ (203.209 mm,160.385 mm): Via 0.889 mm [N-000007] Net:23
+ErrType(4): Track near pad
+    @ (195.379 mm,159.839 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:0.606 mm
+    @ (196.469 mm,158.750 mm): Pad [1] (F.Cu) of C7
+ErrType(4): Track near pad
+    @ (195.379 mm,158.616 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:1.224 mm
+    @ (196.469 mm,158.750 mm): Pad [1] (F.Cu) of C7
+ErrType(4): Track near pad
+    @ (189.860 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:7.804 mm
+    @ (189.420 mm,152.620 mm): Pad [6] (F.Cu) of T1
+ErrType(4): Track near pad
+    @ (188.020 mm,153.097 mm): Track 0.254 mm [N-000009] on F.Cu  Net:24  Length:1.840 mm
+    @ (189.420 mm,152.620 mm): Pad [6] (F.Cu) of T1
+ErrType(4): Track near pad
+    @ (226.224 mm,148.767 mm): Via 0.889 mm [P0_0] Net:25
+    @ (226.035 mm,147.752 mm): Pad [18] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (226.543 mm,147.752 mm): Track 0.254 mm [P0_0] on F.Cu  Net:25  Length:0.696 mm
+    @ (226.035 mm,147.752 mm): Pad [18] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (201.981 mm,172.647 mm): Track 0.254 mm [P0_0] on F.Cu  Net:25  Length:6.003 mm
+    @ (202.819 mm,173.990 mm): Pad [1] (F.Cu) of R11
+ErrType(4): Track near pad
+    @ (200.810 mm,173.818 mm): Track 0.254 mm [P0_0] on F.Cu  Net:25  Length:1.656 mm
+    @ (202.819 mm,173.990 mm): Pad [1] (F.Cu) of R11
+ErrType(4): Track near pad
+    @ (200.810 mm,176.336 mm): Track 0.254 mm [P0_0] on F.Cu  Net:25  Length:2.518 mm
+    @ (199.771 mm,173.990 mm): Pad [2] (F.Cu) of R12
+ErrType(4): Track near pad
+    @ (190.794 mm,168.887 mm): Via 0.889 mm [P1_0/LED] Net:26
+    @ (192.151 mm,170.180 mm): Pad [2] (F.Cu) of R10
+ErrType(4): Track near pad
+    @ (222.529 mm,147.752 mm): Track 0.254 mm [P1_0/LED] on F.Cu  Net:26  Length:0.696 mm
+    @ (223.037 mm,147.752 mm): Pad [12] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (221.818 mm,146.025 mm): Track 0.254 mm [P1_2] on F.Cu  Net:27  Length:0.696 mm
+    @ (221.818 mm,146.533 mm): Pad [9] (F.Cu) of U1
+ErrType(17): Two track ends
+    @ (221.122 mm,146.025 mm): Track 0.254 mm [P1_2] on F.Cu  Net:27  Length:1.832 mm
+    @ (210.058 mm,145.542 mm): Track 0.254 mm [P1_3] on F.Cu  Net:28  Length:11.760 mm
+ErrType(4): Track near pad
+    @ (210.058 mm,145.542 mm): Track 0.254 mm [P1_3] on F.Cu  Net:28  Length:11.760 mm
+    @ (221.818 mm,145.034 mm): Pad [6] (F.Cu) of U1
+ErrType(7): Via near track
+    @ (218.022 mm,144.651 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.556 mm
+    @ (218.355 mm,143.899 mm): Via 0.889 mm [PA_DM] Net:29
+ErrType(4): Track near pad
+    @ (221.818 mm,143.535 mm): Track 0.254 mm [PA_DM] on F.Cu  Net:29  Length:0.696 mm
+    @ (221.818 mm,143.027 mm): Pad [2] (F.Cu) of U1
+ErrType(5): Track near via
+    @ (220.702 mm,143.956 mm): Track 0.254 mm [PA_DM] on F.Cu  Net:29  Length:2.290 mm
+    @ (219.628 mm,143.225 mm): Via 0.889 mm [PA_DP] Net:30
+ErrType(17): Two track ends
+    @ (221.122 mm,143.535 mm): Track 0.254 mm [PA_DM] on F.Cu  Net:29  Length:0.594 mm
+    @ (221.818 mm,143.027 mm): Track 0.254 mm [PA_DP] on F.Cu  Net:30  Length:1.993 mm
+ErrType(4): Track near pad
+    @ (221.818 mm,143.027 mm): Track 0.254 mm [PA_DP] on F.Cu  Net:30  Length:1.993 mm
+    @ (221.818 mm,142.519 mm): Pad [1] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (178.536 mm,177.311 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:3.586 mm
+    @ (181.229 mm,177.800 mm): Pad [1] (F.Cu) of C20
+ErrType(16): Two track ends
+    @ (178.536 mm,142.612 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:34.699 mm
+    @ (178.948 mm,149.102 mm): Track 0.254 mm [VCC_EXT] on F.Cu  Net:33  Length:3.935 mm
+ErrType(4): Track near pad
+    @ (180.871 mm,140.277 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:3.303 mm
+    @ (181.730 mm,142.320 mm): Pad [3] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (186.410 mm,140.277 mm): Track 0.254 mm [VBUS] on F.Cu  Net:31  Length:5.538 mm
+    @ (181.730 mm,142.320 mm): Pad [3] (F.Cu) of U3
+ErrType(4): Track near pad
+    @ (228.831 mm,145.693 mm): Via 0.889 mm [VCC] Net:32
+    @ (227.762 mm,146.025 mm): Pad [23] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,143.027 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.348 mm
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,143.883 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.135 mm
+    @ (227.762 mm,144.526 mm): Pad [26] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (198.841 mm,167.703 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.885 mm
+    @ (199.771 mm,166.370 mm): Pad [2] (F.Cu) of C5
+ErrType(4): Track near pad
+    @ (203.721 mm,167.703 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:4.880 mm
+    @ (199.771 mm,166.370 mm): Pad [2] (F.Cu) of C5
+ErrType(4): Track near pad
+    @ (205.054 mm,166.370 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.885 mm
+    @ (202.819 mm,166.370 mm): Pad [1] (F.Cu) of R5
+ErrType(4): Track near pad
+    @ (228.680 mm,145.542 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.918 mm
+    @ (227.762 mm,146.025 mm): Pad [23] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (191.258 mm,167.668 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.215 mm
+    @ (192.151 mm,166.370 mm): Pad [2] (F.Cu) of C17
+ErrType(4): Track near pad
+    @ (194.131 mm,167.668 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.873 mm
+    @ (192.151 mm,166.370 mm): Pad [2] (F.Cu) of C17
+ErrType(4): Track near pad
+    @ (190.399 mm,165.077 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:3.536 mm
+    @ (188.849 mm,166.370 mm): Pad [1] (F.Cu) of C17
+ErrType(4): Track near pad
+    @ (181.379 mm,164.257 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.988 mm
+    @ (181.229 mm,166.370 mm): Pad [1] (F.Cu) of R4
+ErrType(4): Track near pad
+    @ (180.190 mm,163.749 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.719 mm
+    @ (181.229 mm,162.560 mm): Pad [1] (F.Cu) of R2
+ErrType(4): Track near pad
+    @ (180.190 mm,158.750 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:4.999 mm
+    @ (181.229 mm,162.560 mm): Pad [1] (F.Cu) of R2
+ErrType(4): Track near pad
+    @ (207.160 mm,161.509 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:4.861 mm
+    @ (206.121 mm,162.560 mm): Pad [2] (F.Cu) of C14
+ErrType(4): Track near pad
+    @ (209.919 mm,158.750 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:3.902 mm
+    @ (206.121 mm,162.560 mm): Pad [2] (F.Cu) of C14
+ErrType(4): Track near pad
+    @ (201.341 mm,153.693 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.829 mm
+    @ (202.311 mm,152.400 mm): Pad [2] (F.Cu) of C6
+ErrType(4): Track near pad
+    @ (206.629 mm,153.693 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:5.288 mm
+    @ (202.311 mm,152.400 mm): Pad [2] (F.Cu) of C6
+ErrType(4): Track near pad
+    @ (216.581 mm,153.693 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.829 mm
+    @ (217.551 mm,152.400 mm): Pad [2] (F.Cu) of C10
+ErrType(4): Track near pad
+    @ (218.526 mm,153.693 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.945 mm
+    @ (217.551 mm,152.400 mm): Pad [2] (F.Cu) of C10
+ErrType(4): Track near pad
+    @ (219.560 mm,152.660 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.461 mm
+    @ (217.551 mm,152.400 mm): Pad [2] (F.Cu) of C10
+ErrType(4): Track near pad
+    @ (228.458 mm,143.250 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.314 mm
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (228.236 mm,143.027 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.126 mm
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.051 mm,141.808 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.696 mm
+    @ (226.543 mm,141.808 mm): Pad [32] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (228.517 mm,142.746 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.298 mm
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (228.236 mm,143.027 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.398 mm
+    @ (227.762 mm,142.519 mm): Pad [30] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (217.460 mm,141.839 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.251 mm
+    @ (218.440 mm,142.240 mm): Pad [1] (all copper layers) of SW1
+ErrType(4): Track near pad
+    @ (218.674 mm,140.625 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.717 mm
+    @ (218.440 mm,142.240 mm): Pad [1] (all copper layers) of SW1
+ErrType(4): Track near pad
+    @ (221.211 mm,144.018 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.607 mm
+    @ (221.818 mm,144.526 mm): Pad [5] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (227.762 mm,147.041 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:1.846 mm
+    @ (227.762 mm,146.533 mm): Pad [22] (F.Cu) of U1
+ErrType(4): Track near pad
+    @ (207.292 mm,146.902 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:3.977 mm
+    @ (208.280 mm,147.320 mm): Pad [2] (all copper layers) of SW2
+ErrType(4): Track near pad
+    @ (207.292 mm,147.718 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:0.816 mm
+    @ (208.280 mm,147.320 mm): Pad [2] (all copper layers) of SW2
+ErrType(4): Track near pad
+    @ (209.216 mm,149.642 mm): Track 0.254 mm [VCC] on F.Cu  Net:32  Length:2.722 mm
+    @ (208.280 mm,147.320 mm): Pad [2] (all copper layers) of SW2
+ErrType(4): Track near pad
+    @ (182.660 mm,169.413 mm): Track 0.254 mm [VCC_EXT] on F.Cu  Net:33  Length:1.903 mm
+    @ (181.229 mm,170.180 mm): Pad [1] (F.Cu) of R8
+ErrType(4): Track near pad
+    @ (184.051 mm,171.877 mm): Track 0.254 mm [VCC_EXT] on F.Cu  Net:33  Length:1.968 mm
+    @ (184.531 mm,170.180 mm): Pad [2] (F.Cu) of R8
+
+** Found 0 unconnected pads **
+
+** End of Report **
